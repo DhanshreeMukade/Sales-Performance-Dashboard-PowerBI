@@ -55,7 +55,7 @@ The dashboard enables businesses to monitor performance, identify growth opportu
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](supersales.png)
+![Sales Performance Dashboard](images/supersales.png)
 
 ---
 
